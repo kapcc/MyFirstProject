@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(168, 231, 239);
+
+}
+
+.main {
+  width: 450px;
+  height: 600px;
+  background-color:  white;
+  border-radius: 30px;
+  position: absolute;
+  top: 30px;
+  left: 200px;
+  box-shadow: 0 10px 25px 10px green;
+}
+
+.img1 {
+  margin-top: 70px;
+  margin-left: 150px;
+}
+
+.myp1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: rgb(231, 82, 82);
+  font-size: 2.1em;
+  
+}
+
+.myp2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: rgb(231, 82, 82);
+  font-size: 1.1em;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 90px;
+ 
+
+}
